@@ -1,7 +1,7 @@
 ### Olá, sou Roberto Menezes 👋
 
 - Formado em Administração de Empresas
-- Especialização em Desenvolvedor de Sistemas
+- Técnico em Desenvolvedor de Sistemas
 - Experiência de 4 anos como Analista Funcional e Técnico SAP ECC
 - Experiência de 1 ano como Analista Funcional e Técnico em SAP B1 e SalesForce
 - Aluno da Digital House no curso de Desenvolvimento Web Full Stack(JavaScript, Node, Cross, HTML, CSS, MYSQL, React, Express)
